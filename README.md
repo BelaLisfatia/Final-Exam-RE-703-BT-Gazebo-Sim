@@ -26,3 +26,6 @@ cd ~/gazebo_ws
 source install/setup.bash
 ros2 run barabot_bt bt_main
 ```
+
+## Demonstration RObot
+[![Demo Robot Gazebo](https://img.youtube.com/vi/5vrrORMIICo/0.jpg)](https://www.youtube.com/watch?v=5vrrORMIICo)
