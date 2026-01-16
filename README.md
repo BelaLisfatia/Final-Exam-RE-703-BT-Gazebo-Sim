@@ -7,7 +7,7 @@ Bela Lisfatia / 4222201064
 A robot with two differential wheels on the right and left sides moves from one position to another in a forward or backward motion. This is simulated through a gazebo using a behavior tree algorithm.
 
 ## Behaviour Tree Diagram
-
+![Behaviour Tree](BT_Barabot.png)
 
 ## Running Instruction
 ### 1. Open Terminal
