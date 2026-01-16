@@ -1,7 +1,6 @@
 # Final-Exam-RE-703-BT-Gazebo-Sim
-
-Markus Pardede / 4222201063
-Bela Lisfatia / 4222201064
+• Markus Pardede / 4222201063
+• Bela Lisfatia / 4222201064
 
 ## Case Study
 A robot with two differential wheels on the right and left sides moves from one position to another in a forward or backward motion. This is simulated through a gazebo using a behavior tree algorithm.
